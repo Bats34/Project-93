@@ -1,0 +1,19 @@
+#min {
+	width:45px;
+	height:35px;
+}
+body {
+    background-color: powderblue;
+}
+#logout {
+    width:120px;
+    height:40px;
+    float: right;
+    font-size: 20px;
+}
+#divs {
+    padding: 10px; width: 80%; background-color: rgb(245, 175, 235); border-radius: 15px;
+}
+.usertick {
+    width: 20px;
+}
